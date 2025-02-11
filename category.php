@@ -8,7 +8,7 @@ include_once('header.php');
             <ul class="breadcrumbs-custom-path">
                
                 <li><a href="index">Home <span class="fa fa-angle-double-right" aria-hidden="true"></span></a></li>
-                <li class="active">Truck Type</li>
+                <li class="active">Truckss Type</li>
             </ul>
         </div>
     </div>
